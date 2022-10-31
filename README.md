@@ -1,14 +1,25 @@
-Hi there 👋
-AhogeK's github stats
+### Hi there 👋
 
-Top Langs
+<!--
 
-My PSN small Profile
+Here are some ideas to get you started:
 
-My NS Code：SW-7161-1387-9324
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-E-Mail: ahogek@gmail.com
+[![ShetePro's github stats](https://github-readme-stats.vercel.app/api?username=1031531798&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=1031531798&show_icons=true&theme=radical) 
 
-WeChat: AhogeK
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShetePro&layout=compact&theme=radical)
 
-twitter: @AhogeKnight
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhogeK&repo=mimall-web&theme=radical)](https://github.com/AhogeK/mimall-web) -->
+
+E-Mail: sheteprolin@gmail.com
+
+<!-- ![My PSN Profile](https://card.psnprofiles.com/2/AhogeK.png) -->
