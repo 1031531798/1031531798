@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=1031531798&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=1031531798&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1031531798&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1031531798&layout=compact&theme=tokyonight)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=1031531798&repo=web_rtc_vue&theme=gruvbox)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=1031531798&repo=web_rtc_vue&theme=cobalt)
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=1031531798&repo=NodeFocus&theme=gruvbox)
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhogeK&repo=mimall-web&theme=radical)](https://github.com/AhogeK/mimall-web) -->
